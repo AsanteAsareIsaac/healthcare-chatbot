@@ -1,6 +1,6 @@
 ﻿# healthcare-chatbot
 
-Welcome to the Healthcare Chatbot project! This application is designed to provide users with quick and informative responses to healthcare-related questions.
+Welcome to the Healthcare KaggleX Chatbot project! This application is designed to provide users with quick and informative responses to healthcare-related questions.
 
 ## Table of Contents
 
@@ -9,8 +9,7 @@ Welcome to the Healthcare Chatbot project! This application is designed to provi
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
